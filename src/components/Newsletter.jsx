@@ -22,7 +22,7 @@ const Newsletter = () => {
             </button>
           </div>
           <p>
-            We care about the protection of ypur data. Read our{" "}
+            We care about the protection of ypur data. Read our
             <span className="text-[#00df9a]">Privacy Policy.</span>
           </p>
         </div>
